@@ -1,8 +1,8 @@
 {
-	resume: {
-		name: "Pham Xuan Phu",
-		id: 11282,
-		color: "red",
-		number: "04"
+	"resume": {
+		"name": "Pham Xuan Phu",
+		"id": "11282",
+		"color": "red",
+		"number": "04"
 	}
 }
