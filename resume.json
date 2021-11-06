@@ -1,4 +1,13 @@
 {
+	"information": {
+		"name": "Pham Xuan Phu",
+		"postion": "Front End Developer",
+		"date": "01/10/1999",
+		"gender": "Male",
+		"phone": "0375185272",
+		"email": "phamxuanphu0110@gmail.com",
+		"address": "120 Nguyen Van Dau, Ward 7, Binh Thanh District, Ho Chi Minh City",
+	},
 	"resume": {
 		"name": "Pham Xuan Phu",
 		"id": "11282",
